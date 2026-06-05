@@ -1,0 +1,6 @@
+a = float(input("Enter first number: "))
+b = float(input("Enter second number: "))
+print("Sum: " + str(a + b))
+print("Difference: " + str(a - b))
+print("Product: " + str(a * b))
+print("Quotient: " + str(a / b))
